@@ -4,7 +4,7 @@ Welcome to My GitHub!
 
 About Me
 
-📈 Skilled in SQL, PLSQL, Python and have a bit of Shell cripting knowledge.
+📈 Skilled in SQL, PLSQL, Python and have a bit of Shell scripting knowledge.
 🧐 I'm enthusiastic about problem-solving, Python, Automation, SQL, Gaming🎮.
 
 What You'll Find Here
